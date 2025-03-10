@@ -4,7 +4,9 @@
 - `Email:` gelei at ruc.edu.cn
 
 ## Course Description
-This course is designed to introduce students to the fundamentals of artificial intelligence and Python programming for the financial predictions. The course will cover the knowledge of machine learning, deep learning, and natural language processing. Students will learn how to use Python to write code and how to use Python libraries to build machine learning models. We will meet at every Thurday at 6:00pm @ Minde Business School Room 205. Please feel free to join us if you are interested in this course. Welcome students from all majors.
+This course is designed to introduce students to the fundamentals of artificial intelligence and Python programming for the financial predictions. The course will cover the knowledge of machine learning, deep learning, and natural language processing. Students will learn how to use Python to write code and how to use Python libraries to build machine learning models. 
+
+We will meet at every `Thurday at 6:00pm @ Minde Business School Room 205`. Please feel free to join us if you are interested in this course. Welcome students from all majors.
 
 ## Contents:
 1. Python Basics 
@@ -12,8 +14,12 @@ This course is designed to introduce students to the fundamentals of artificial 
 3. Machine Learning Fundamentals (Optimization, Lasso, Emsembled Methods, Modeling Emsembling)
 4. Deep Learning Fundamentals (ANN, CNN)
 5. Natural Language Processing Fundamentals (Transformers)
-6. Papers Reading (XGBOOST paper, Transformer paper, Two top finance papers using ML)
-
+6. Papers Reading (XGBOOST Chen paper, Transformer Vaswai paper, Two top finance papers using ML)
+7. Textbook:
+   - https://quantecon.org/lectures/
+   - https://www.deeplearningbook.org/
+   - https://github.com/ageron/handson-ml3
+   - https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 
 ## Teaching Team 
 - `Lei Ge (葛雷)` Asst. Professor in Quant Economics, Renmin University of China
