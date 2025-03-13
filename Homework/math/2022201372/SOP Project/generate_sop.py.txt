@@ -1,0 +1,25 @@
+ffrom docxtpl import DocxTemplate
+import pandas as pd
+import os
+
+# 1. 读取模板和Excel数据
+doc = DocxTemplate("template.docx")
+df = pd.read_excel("universities.xlsx")
+
+# 2. 循环生成每个大学的文书
+for index, row in df.iterrows():
+    university = row["University Names"]
+    # 遍历每个专业（Major1, Major2, Major3）
+    for col in ["Major1", "Major2", "Major3"]:
+        program = row[col]
+        # 替换模板中的占位符
+        context = {
+            "university": university,
+            "program": program
+        }
+        # 生成Word文件，命名如"哈佛_MA in Economics.docx"
+        output_name = f"{university}_{program}.docx"
+        doc.render(context)
+        doc.save(output_name)
+        print(f"已生成文件：{output_name}")  # 提示生成进度
+
