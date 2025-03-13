@@ -1,0 +1,54 @@
+Aarhus University
+Australian National University
+Bocconi University
+Boston University
+Brown University
+Carnegie Mellon University
+Columbia University
+Cornell University
+Copenhagen Business School
+Duke University
+Erasmus University Rotterdam
+ETH Zurich
+Georgetown University
+Harvard University
+Humboldt University of Berlin
+Imperial College London
+Johns Hopkins University
+Katholieke Universiteit Leuven
+London School of Economics and Political Science
+Massachusetts Institute of Technology
+McGill University
+National University of Singapore
+New York University
+Northwestern University
+Norwegian School of Economics
+Oxford University
+Paris School of Economics
+Pennsylvania State University
+Pompeu Fabra University
+Princeton University
+Queen Mary University of London
+Sciences Po Paris
+Stanford University
+Stockholm School of Economics
+Technical University of Munich
+Tilburg University
+Trinity College Dublin
+UCL (University College London)
+University of Amsterdam
+University of Barcelona
+University of California
+Berkeley
+University of Cambridge
+University of Chicago
+University of Edinburgh
+University of Mannheim
+University of Michigan
+University of Oslo
+University of Pennsylvania
+University of Toronto
+University of Warwick
+University of Wisconsin-Madison
+Yale University
+Zurich University

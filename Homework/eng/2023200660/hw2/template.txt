@@ -1,0 +1,40 @@
+Application for {major} Master's Program
+
+Admissions Committee
+{university}
+
+[Zhongguancun Street, Haidian District]
+[Beijing, China]
+[2025-3-12]
+
+Dear Members of the Admissions Committee,
+
+As a senior undergraduate majoring in Economics at the School of Economics, Renmin University of China (RUC), I am writing to express my strong enthusiasm for the {major} Master's Program at {university}. With rigorous academic training in quantitative analysis, policy evaluation, and data-driven decision-making, I am confident that my background aligns seamlessly with the interdisciplinary vision of your program.
+
+Academic Preparation
+
+During my studies at RUC, I prioritized building a robust foundation in both economic theory and computational methods. Among the {class} courses I completed, several were pivotal in shaping my analytical rigor:
+
+Core Economics: Intermediate Micro/Macroeconomics, Econometrics, Development Economics
+Quantitative Tools: Mathematical Analysis, Probability & Statistics, Python Programming
+Specialized Electives: Machine Learning for Economic Research, Big Data Analytics, Advanced Econometric Modeling
+These courses not only earned me a GPA of 3.92/4.0 (top 5% of my cohort) but also equipped me to conduct original research.
+Research & Practical Engagement
+
+Additionally, my internship at my  origin institution exposed me to real-world applications of {major}. By [describe tasks: e.g., optimizing pricing models using stochastic optimization, building predictive dashboards with TensorFlow], I recognized the transformative potential of merging economic intuition with cutting-edge computational tools.
+
+Why {university}?
+
+{university}'s commitment to interdisciplinary collaboration, experimental economics labs, renowned faculty deeply resonates with my aspiration to address labor market disparities through AI-driven policy simulations. The program’s partnerships with central banks, data science hackathons would empower me to bridge the gap between academic research and societal impact.
+
+Future Vision
+
+Long-term, I aspire to lead data-informed policy design at international organizations like the World Bank or pursue a PhD in behavioral economics]. I am convinced that {university}'s global perspective and innovation-driven curriculum will serve as the ideal catalyst for this journey.
+
+Enclosed are my transcripts, letters of recommendation, and a writing sample demonstrating my analytical capabilities. I would be honored to contribute to {university}'s academic community and welcome the opportunity to discuss my application further.
+
+Thank you for your consideration.
+
+Sincerely,
+Duan Yi
+
