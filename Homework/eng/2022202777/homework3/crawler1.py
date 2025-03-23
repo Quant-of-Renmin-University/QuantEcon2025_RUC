@@ -87,7 +87,6 @@ def close_browser(browser):
     print("浏览器已关闭")
 
 
-# 直接调用函数实现功能
 browser = initialize_browser()
 target_url = 'https://tj.esf.fang.com/house-a041-b0967/'
 output_file = 'tianjin_balitai_housing_prices.csv'
