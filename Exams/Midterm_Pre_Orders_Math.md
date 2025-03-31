@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/77ce407a-f1d3-4a90-82ac-559ac45e9c1a)**Midterm Pre Orders**
+**Midterm Pre Orders**
 
 
 
