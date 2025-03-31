@@ -20,6 +20,8 @@ Midterm Time & Requirement:
   - 2 questions from teacher & TAs on your model and code
 
 
+Midterm Pre Order:
+
 
 | 学号       | 姓名     | 班级                                             | group |
 | ---------- | -------- | ------------------------------------------------ | ----- |
