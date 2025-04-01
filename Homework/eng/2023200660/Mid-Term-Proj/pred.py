@@ -10,7 +10,7 @@ from sklearn.linear_model import LinearRegression
 
 # 加载训练数据
 train_df = pd.read_pickle('/home/duanyi_prv/Project/SchoolCourse/QuantEcon2025_RUC/Homework/eng/2023200660/Mid-Term-Proj/ruc_Class25Q1_train.pkl')
-
+train_df[train_df['价格'] < 16000000]
 # 分割训练集特征与目标
 X_train = train_df.drop(['Unnamed: 0','价格'], axis=1)
 y_train = train_df['价格']
@@ -37,5 +37,5 @@ result_df = pd.DataFrame({
 })
 
 # 保存为CSV（保留4位小数）
-result_df.to_csv('predictions.csv', index=False, float_format='%.4f')
+result_df.to_csv('3-31predictions.csv', index=False, float_format='%.4f')
 

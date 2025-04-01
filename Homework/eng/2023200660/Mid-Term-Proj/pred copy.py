@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 
 # 加载训练数据
 train_df = pd.read_pickle('/home/duanyi_prv/Project/SchoolCourse/QuantEcon2025_RUC/Homework/eng/2023200660/Mid-Term-Proj/ruc_Class25Q1_train.pkl')
-
+train_df = train_df[train_df['价格'] < 16000000]   # 剔除价格异常值
 # 分割训练集特征与目标
 X_train = train_df.drop(['Unnamed: 0','价格'], axis=1)
 y_train = train_df['价格']
@@ -39,9 +39,9 @@ class ThreeLayerNet(nn.Module):
     def __init__(self, input_size):
         super(ThreeLayerNet, self).__init__()
         self.net = nn.Sequential(
-            nn.Linear(input_size, 16),   # 输入层 -> 隐藏层1
+            nn.Linear(input_size, 32),   # 输入层 -> 隐藏层1
             nn.ReLU(),
-            nn.Linear(16, 8),           # 隐藏层1 -> 隐藏层2
+            nn.Linear(32, 8),           # 隐藏层1 -> 隐藏层2
             nn.ReLU(),
             nn.Linear(8, 1)             # 隐藏层2 -> 输出层
         )
@@ -56,7 +56,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 # 训练循环
 epochs = 100
-batch_size = 32
+batch_size = 128
 
 for epoch in range(epochs):
     # 随机打乱数据
@@ -89,4 +89,4 @@ result_df = pd.DataFrame({
     'ID': pred_df['ID'],
     'Price': predictions
 })
-result_df.to_csv('nn_predictions.csv', index=False, float_format='%.4f')
+result_df.to_csv('./nn_predictions.csv', index=False, float_format='%.4f')
