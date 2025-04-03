@@ -1,1 +1,7 @@
-
+代码顺序：
+1、clean_train
+2、detail_rent_train
+3、hyperchoice
+4、best_model，best_model_interaction_only
+5、hyperpredicition，hyperprediction_interaction_only
+6、cv6_index，cv6_index_interaction_only
