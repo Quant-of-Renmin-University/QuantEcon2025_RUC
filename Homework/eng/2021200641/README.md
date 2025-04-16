@@ -3,7 +3,7 @@ project/
 ├── processed_data/
 │   └── merge_chars_60.ipynb   # 因子数据合并
 │   └──impute_rank_output_bckmk.ipynb  # 因子值排序处理
-├── factor_calculation/        # 各因子计算脚本
+├── factor_calculation        # 各因子计算脚本
 └── README.md
 
 一、运行顺序
