@@ -5,7 +5,6 @@ project/
 │   └──impute_rank_output_bckmk.ipynb  # 因子值排序处理
 ├── factor_calculation/        # 各因子计算脚本
 └── README.md
-```
 
 一、运行顺序
 1. 数据提取
