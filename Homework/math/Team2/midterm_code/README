@@ -1,0 +1,7 @@
+代码顺序：
+1、clean_train
+2、detail_rent_train
+3、hyperchoice（该代码需运行10h+，审阅的同学可选择离线运行，或直接使用其最优化超参结果）
+4、best_model，best_model_interaction_only
+5、hyperpredicition，hyperprediction_interaction_only
+6、cv6_index，cv6_index_interaction_only
