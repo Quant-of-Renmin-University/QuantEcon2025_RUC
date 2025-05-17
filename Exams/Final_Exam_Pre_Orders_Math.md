@@ -1,5 +1,7 @@
 ## **Midterm Pre Orders**
 
+#### Important Links:
+
 Final Exam Link: [QuantEcon2025_RUC/Exams/Final_Exam2025Q1.md at main · Quant-of-Renmin-University/QuantEcon2025_RUC](https://github.com/Quant-of-Renmin-University/QuantEcon2025_RUC/blob/main/Exams/Final_Exam2025Q1.md)
 
 Final Exam Codes & Predictions Submission: https://datahub.ruc.edu.cn/org/RUC/competition/area/67ddbdc89f172c5665cb4de0/submit
@@ -8,7 +10,8 @@ Final Exam Codes & Predictions Submission: https://datahub.ruc.edu.cn/org/RUC/co
 
 #### Final Exam Time & Requirement:
 
-- Time: **June 5th** and **June 12th**, 18:00-20:30
+- Time: **June 5th** and **June 12th**, **18:00-20:30**
+- Location: **Minde International Building Room 30**
 - Format: Mock Interview with strict requirements
 - Requirements:
   - 10 mins presentation
