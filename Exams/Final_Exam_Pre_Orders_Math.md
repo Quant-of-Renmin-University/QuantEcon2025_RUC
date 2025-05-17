@@ -11,7 +11,7 @@ Final Exam Codes & Predictions Submission: https://datahub.ruc.edu.cn/org/RUC/co
 #### Final Exam Time & Requirement:
 
 - Time: **June 5th** and **June 12th**, **18:00-20:30**
-- Location: **Minde International Building Room 30**
+- Location: **Minde International Building Room 304**
 - Format: Mock Interview with strict requirements
 - Requirements:
   - 10 mins presentation
