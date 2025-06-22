@@ -21,9 +21,17 @@ We will meet at every `Thurday at 6:00pm @ Minde International Building Room 304
    - https://github.com/ageron/handson-ml3
    - https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 
-## Teaching Team 
+## Teaching Team (2025 Spring)
 - `Lei Ge (葛雷)` Asst. Professor in Quant Economics, Renmin University of China
 - `Xiangyuan Mo （莫湘源）`  Teaching Assistant, Renmin University of China
 - `Chenxi Wang （王晨曦）` Teaching Assistant, Renmin University of China
 - `Tianyou Cui （崔天佑）` Teaching Assistant, Renmin University of China
 - `Yichen Xu （徐一宸）` Teaching Assistant, Renmin University of China
+
+## Teaching Team (2025 Fall)
+- `Lei Ge (葛雷)` Asst. Professor in Quant Economics, Renmin University of China
+- `Chenxi Wang （王晨曦）` Teaching Assistant, Renmin University of China
+- `Tianyou Cui （崔天佑）` Teaching Assistant, Renmin University of China
+- `Hongming Liang （梁泓铭）` Teaching Assistant, Renmin University of China
+- `Yubo Ouyang （欧阳语博）` Teaching Assistant, Renmin University of China
+
