@@ -6,7 +6,7 @@
 ## Course Description
 This course is designed to introduce students to the fundamentals of artificial intelligence and Python programming for the financial predictions. The course will cover the knowledge of machine learning, deep learning, and natural language processing. Students will learn how to use Python to write code and how to use Python libraries to build machine learning models. 
 
-We will meet at every `Thurday at 6:00pm @ Minde International Building Room 304`. Please feel free to join us if you are interested in this course. Welcome students from all majors.
+We will meet at every `Thurday at 2:00pm @ Minde Business Building Room 208`. Please feel free to join us if you are interested in this course. Welcome students from all majors.
 
 ## Contents:
 1. Python Basics 
@@ -40,4 +40,5 @@ We will meet at every `Thurday at 6:00pm @ Minde International Building Room 304
 - `Chenxi Wang （王晨曦）` Teaching Assistant, Renmin University of China
 - `Tianyou Cui （崔天佑）` Teaching Assistant, Renmin University of China
 - `Yichen Xu （徐一宸）` Teaching Assistant, Renmin University of China
+
 
